@@ -17,12 +17,7 @@ public class UserController {
 		map.put("name", "张三");
 		System.out.println("e2提交");
         System.out.println("idea提交2");
-        System.out.println("idea提交2");
 		System.out.println("e2提交2");
-		System.out.println("e2提交2");
-		System.out.println("e2提交2");
-		System.out.println("e2提交2");
-		System.out.println("idea提交第一次");
 		return map;
 	}
 	
