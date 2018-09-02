@@ -33,4 +33,9 @@ public class UserController {
 	     System.out.println("idea在dev分支上写了句话");
     }
 	
+	
+	public void test2(){
+	     System.out.println("e在dev分支上写方法 ");
+   }
+	
 }
