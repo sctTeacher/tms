@@ -8,7 +8,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class UserController {
-
+ 
+	
+	private int local;
+	private String remote;
 	
 	@RequestMapping("/loing")
 	public Map loing(){
