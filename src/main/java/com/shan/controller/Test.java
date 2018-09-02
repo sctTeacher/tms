@@ -10,6 +10,7 @@ public class Test {
     
     public static void main(String[] args){
         System.out.println("创建dev分支");
+        System.out.println("e在dev分支上写了一句话");
     }
     
 }
