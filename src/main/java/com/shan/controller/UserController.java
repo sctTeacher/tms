@@ -29,4 +29,8 @@ public class UserController {
       System.out.println("222idea");
 	}
 	
+	public void test(){
+	     System.out.println("idea在dev分支上写了句话");
+    }
+	
 }
