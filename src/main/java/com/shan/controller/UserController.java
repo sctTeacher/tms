@@ -15,6 +15,7 @@ public class UserController {
 		Map map=new HashMap<>();
 		map.put("id", 1);
 		map.put("name", "张三");
+		System.out.println("e2提交");
 		return map;
 	}
 }
