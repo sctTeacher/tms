@@ -10,6 +10,14 @@ public class Pro1 {
     
     
     public static void main(String[] args){
+        System.out.println("pro分支2222222");
         System.out.println("pro分支");
+    }
+
+    public void test(){
+        System.out.println("idea1在pro分支上写了22222222");
+        System.out.println("idea1在pro分支上写了2222222222");
+        System.out.println("idea1在pro分支上写了2222222222");
+        System.out.println("idea1在pro分支上写了222222222222");
     }
 }
