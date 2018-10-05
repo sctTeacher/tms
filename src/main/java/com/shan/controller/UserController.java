@@ -41,4 +41,9 @@ public class UserController {
 	public void test3(){
 	     System.out.println("e在dev分支上写3方法 ");
   }
+
+
+    public void test4(){
+        System.out.println("e在dev分支上写4方法 ");
+    }
 }
