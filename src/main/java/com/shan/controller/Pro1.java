@@ -11,5 +11,6 @@ public class Pro1 {
     
     public static void main(String[] args){
         System.out.println("pro分支");
+        System.out.println("mast");
     }
 }
