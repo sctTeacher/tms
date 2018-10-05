@@ -14,6 +14,7 @@ public class Pro1 {
         System.out.println("pro1分支");
         System.out.println("pro分支");
         System.out.println("pro分支");
+        System.out.println("cheange");
     }
 
     public void test2(){
